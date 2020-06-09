@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to quoirien's Github page
+
+Just getting started on Github, right now just working on the [Slide Machine](https://github.com/quoirien/slide-machine), my psychotronic visual projections project.
+
+/* does commenting work */
 
 You can use the [editor on GitHub](https://github.com/quoirien/quoirien.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
